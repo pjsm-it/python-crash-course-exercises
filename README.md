@@ -13,7 +13,7 @@ All examples and exercises are rewritten in my own style and implemented from sc
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/python-crash-course.git
+git clone https://github.com/pjsm-it/python-crash-course.git
 
 2. Navigate to the folder and run the Python files:
 
